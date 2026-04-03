@@ -1,9 +1,9 @@
-# Personal Portfolio 🚀
+#My Personal Portfolio 🚀
 
 A Modern Personalized , responsive portfolio website showcasing skills, projects, and professional journey with a clean and professional design.
 
 ## 🌟 Live Preview
-**[View Portfolio](https://abhaysinghrajput.vercel.app/)**
+**[View Portfolio](https://sanjay-dp.github.io/My-PortFolio/)**
 
 ## ✨ Features
 
@@ -80,22 +80,6 @@ A Modern Personalized , responsive portfolio website showcasing skills, projects
 - **Fast Loading Times** with optimized assets
 - **Clean Code Structure** for maintainability
 
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Abhay-0103/Portfolio-1.git
-   ```
-
-2. **Open the project**
-   ```bash
-   cd Portfolio-1
-   ```
-
-3. **Launch in browser**
-   - Open `index.html` in your preferred browser
-   - Or use a local server for development
-
 ## 📧 Contact Integration
 The contact form is integrated with **Formspree** for seamless message handling. Messages sent through the form are delivered directly to the specified email address.
 
@@ -107,10 +91,10 @@ The contact form is integrated with **Formspree** for seamless message handling.
 - ✅ Mobile browsers
 
 ## 👨‍💻 Developer
-**Abhay Singh**
-- GitHub: [@Abhay-0103](https://github.com/Abhay-0103)
-- LinkedIn: [Abhay Singh](https://www.linkedin.com/in/abhay-singh-16a492329/)
-- Email: ab0321054@gmail.com
+**Sanjay**
+- GitHub: [Sanjay-DP](https://github.com/Sanjay-DP)
+- LinkedIn: [Sanjay D P](https://www.linkedin.com/in/sanjay-d-p-b3296b229)
+- Email: sanjaydp8055@gmail.com
 
 ---
-**Made with ❤️ by Abhay Singh**
+**Made with ❤️ by Sanjay DP**
