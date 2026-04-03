@@ -7,7 +7,7 @@ A Modern Personalized , responsive portfolio website showcasing skills, projects
 
 ## ✨ Features
 
-### 🎨 Design & UI/UX
+### 🎨 Design & UI/UX 
 - **Modern Dark Theme** with orange accent colors
 - **Fully Responsive** design that works on all devices
 - **Smooth Animations** and hover effects
